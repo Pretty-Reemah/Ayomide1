@@ -1,0 +1,44 @@
+/* *,
+::before,
+::after{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+} */
+
+body{
+    background-color: blue;
+}
+
+.card{
+    text-align: center;
+    color: white;
+}
+
+.shadow{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+img{
+    width: 250px;
+    height: 290px;
+}
+
+.berd{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.nnn{
+    color: green;
+
+}
+
+.bbb, .mmm{
+    color: white;
+}
+
+.mmm{
+    line-height: 30px;
+}
+

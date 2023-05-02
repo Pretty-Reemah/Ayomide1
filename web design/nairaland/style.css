@@ -1,0 +1,57 @@
+/* body{
+    background-color: grey;
+} */
+
+.box{
+    max-width: 1000px; 
+    margin: auto;
+}
+
+.naira{
+    text-align: center; 
+    border: 1px solid grey; 
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #e8ece0;
+}
+
+a:link{
+    text-decoration: none; 
+}
+
+.link a:visited{
+    color: hotpink;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+/* a :active{
+color: green;
+}  */
+
+.box2{
+    border: 1px solid grey; 
+    border-radius: 10px; 
+    margin-top: 10px;
+    /* padding: 10px; */
+}
+
+.link{
+    text-align: center;   
+    background-color:rgb(199, 192, 192) ;
+}
+
+.box5{
+    text-align: center; 
+    border: 1px solid grey;
+    border-radius: 10px; 
+    margin-top: 10px;
+    padding: 20px;
+}

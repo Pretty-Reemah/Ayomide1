@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.con-1{
+    background-color: red;
+}
+.con-2{
+    background-color:  blue;
+}
+.con-3{
+    background-color:  yellow;
+}
+.con-4{
+    background-color: green;
+}
+.con-5{
+    background-color: plum;
+}
+.con-6{
+    background-color:  lavender;
+}
+.con-7{
+    background-color: hotpink;
+}
+.con-8{
+    background-color: darkmagenta;
+}
+
+.box-1{
+    display: grid;
+    
+}
